@@ -1,0 +1,33 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T22:53:19Z",
+  "IdClaims": [
+    {
+      "Claim": "t:mikewmerritt"
+    },
+    {
+      "Claim": "gh:mikewmerritt"
+    },
+    {
+      "Claim": "mdon:@mikewmerritt@masto.ai"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "060346fcf3d555033493dcbb",
+    "Timestamp": "2023-04-05T22:57:19Z",
+    "Signature": "261bca81a3d797937c8226461b08295c01aa8e7ca937ec8b5c29014a529d8f96dd75ac8673999b00f10bdfbef8e3dca98ef059a8ff349ad1e36d082efeded19457572a7977ad0d153fdb7b0a52bfc382198fffad8aeb2bf2c9fbb69d8e7a1ce62201e7bd05ec05937f13bf643138efd088fc1d2f1c27adb8a3630d9b85a10385294b195b9173c8bf24b9bf89f16c5ec92bc86e900e1cf474064ae43172430577cc69edba42a6b62f4a48dd71476bbabc02f9286747e2c0a1fe43f823db963a39c4890f7a1b94145f0ceb35e7a387ed14e2d12246e06c0a3caf8e457c4fbf2b9cbb961f510abe81ff78e89075b0e1466eb6dab626197b22496e8bb9df682163a0"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "e81b01fd090576c8805c9f3bf68c674444f6d8bee5592dff16bc688c71c5f56b",
+  "ContentToHash": "v1|gh:mikewmerritt,mdon:@mikewmerritt@masto.ai,spout:no-account,ss:no-account,t:mikewmerritt|2023-04-05T22:53:19Z"
+}
